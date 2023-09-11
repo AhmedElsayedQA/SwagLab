@@ -5,32 +5,25 @@ This project demonstrates test automation using Selenium, Maven, and TestNG with
 
 ## Prerequisites
 
-- Java Development Kit (JDK) installed
+- Java Development Kit (JDK) installed -V 11
 - Maven installed
 - WebDriver compatible with your browser (e.g., ChromeDriver, GeckoDriver)
 
 ## Setup Instructions
 
-1. **Clone the repository**
+1. Clone the repository to your local machine.
 
-   Clone the repository to your local machine.
+2. Open your IDE (IntelliJ or Eclipse) and import the cloned project into your workspace.
 
-2. **Navigate to the project directory**
+3. Once the project is imported, navigate to the CheckoutFlowTest class located in the src/test/java directory.
 
-   Open a terminal or command prompt and navigate to the project directory.
+4. Open the CheckoutFlowTest class and ensure that the necessary WebDriver initialization code is present. If not, you may need to add it.
 
-3. **Install project dependencies using Maven**
+5. Configure the WebDriver to use the browser of your choice
 
-   Run the Maven command to install the project dependencies.
+6. Once the WebDriver is properly configured, you can run the test suite by right-clicking on the CheckoutFlowTest class and selecting "Run" or "Run As" (depending on your IDE).
 
-4. **Update the WebDriver configuration**
+7. The test suite will start executing, and you will see the test progress and results in the IDE's console or test runner window.
 
-   Open the `BaseTests.java` file located in the `src/test/java/Base` directory. Modify the WebDriver initialization code to use the WebDriver compatible with your browser.
-
-
-5. **Run the test suite**
-
-   - Use an integrated development environment (IDE) such as IntelliJ or Eclipse to execute the `CheckoutFlowTest` class.
-   - Alternatively, you can run the test suite using your preferred test runner.
 ## Demo
 https://drive.google.com/file/d/1ObW9Ba6i0mncdDyd3_vNX-P-Jnfjxd5D/view
