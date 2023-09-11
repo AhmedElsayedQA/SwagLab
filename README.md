@@ -33,5 +33,4 @@ This project demonstrates test automation using Selenium, Maven, and TestNG with
    - Use an integrated development environment (IDE) such as IntelliJ or Eclipse to execute the `CheckoutFlowTest` class.
    - Alternatively, you can run the test suite using your preferred test runner.
 ## Demo
-   https://drive.google.com/file/d/1ObW9Ba6i0mncdDyd3_vNX-P-Jnfjxd5D/view?usp=sharing
-
+https://drive.google.com/file/d/1ObW9Ba6i0mncdDyd3_vNX-P-Jnfjxd5D/view
